@@ -24,3 +24,5 @@ In conclusion, the data team has the following recommendations for addressing di
  1.
  2. 
  3.
+
+[For a look at this project's Jupyter Notebook, please click here.](https://github.com/r3ginam/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
